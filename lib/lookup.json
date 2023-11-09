@@ -455,7 +455,7 @@
   },
   "socket.io": {
     "maintainers": "rauchg",
-    "head": true
+    "skip": ["<20", "win32"]
   },
   "spdy": {
     "prefix": "v",
