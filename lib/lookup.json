@@ -454,7 +454,8 @@
     "maintainers": "reconbot"
   },
   "socket.io": {
-    "maintainers": "rauchg"
+    "maintainers": "rauchg",
+    "head": true
   },
   "spdy": {
     "prefix": "v",
